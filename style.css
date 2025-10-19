@@ -76,6 +76,16 @@ h1 {
     color: rgba(0, 0, 0, 0.7);
     margin-bottom: var(--spacing-lg);
     font-weight: 400;
+    text-align: center;
+}
+
+.description {
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.7);
+    margin-bottom: var(--spacing-lg);
+    line-height: 1.5;
+    text-align: center;
+    text-align: justify;
 }
 
 .cta-primary {
